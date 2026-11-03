@@ -1,0 +1,106 @@
+{
+  "id": "insuure",
+  "gitUrl": "https://github.com/weelume/insuure-template",
+  "name": "Insure · 安心保险",
+  "localizedNames": {
+    "en": "Insure · Insurance"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "保险",
+    "手绘插画",
+    "青绿",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "以青绿、暖黄与手绘插画呈现保险服务，包含全站双语页面、保险方案、评价轮播与本地咨询表单。",
+  "accentColor": "#176f65",
+  "cover": "/templates/insuure/screenshots/desktop-home.webp",
+  "screenshots": [
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页 · PC",
+      "src": "/templates/insuure/screenshots/desktop-home.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "保险服务 · PC",
+      "src": "/templates/insuure/screenshots/desktop-service.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "保险知识 · PC",
+      "src": "/templates/insuure/screenshots/desktop-blog.webp"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "联系 · PC",
+      "src": "/templates/insuure/screenshots/desktop-contact.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页 · iPad",
+      "src": "/templates/insuure/screenshots/tablet-home.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "保险服务 · iPad",
+      "src": "/templates/insuure/screenshots/tablet-service.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "保险知识 · iPad",
+      "src": "/templates/insuure/screenshots/tablet-blog.webp"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "联系 · iPad",
+      "src": "/templates/insuure/screenshots/tablet-contact.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页 · H5",
+      "src": "/templates/insuure/screenshots/mobile-home.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "保险服务 · H5",
+      "src": "/templates/insuure/screenshots/mobile-service.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "保险知识 · H5",
+      "src": "/templates/insuure/screenshots/mobile-blog.webp"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "联系 · H5",
+      "src": "/templates/insuure/screenshots/mobile-contact.webp"
+    }
+  ]
+}

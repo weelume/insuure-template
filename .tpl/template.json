@@ -1,0 +1,278 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "insuure",
+  "gitUrl": "https://github.com/weelume/insuure-template",
+  "name": "Insure · 安心保险",
+  "localizedNames": {
+    "en": "Insure · Insurance"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "保险",
+    "手绘插画",
+    "青绿",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "以青绿、暖黄与手绘插画呈现保险服务，包含全站双语页面、保险方案、评价轮播与本地咨询表单。",
+  "accentColor": "#176f65",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "首页 · PC",
+      "src": "assets/desktop-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "保险服务 · PC",
+      "src": "assets/desktop-service.webp",
+      "surfaceId": "site",
+      "pageSlug": "service"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "保险知识 · PC",
+      "src": "assets/desktop-blog.webp",
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "alt": "联系 · PC",
+      "src": "assets/desktop-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "首页 · iPad",
+      "src": "assets/tablet-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "保险服务 · iPad",
+      "src": "assets/tablet-service.webp",
+      "surfaceId": "site",
+      "pageSlug": "service"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "保险知识 · iPad",
+      "src": "assets/tablet-blog.webp",
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "alt": "联系 · iPad",
+      "src": "assets/tablet-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "首页 · H5",
+      "src": "assets/mobile-home.webp",
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "保险服务 · H5",
+      "src": "assets/mobile-service.webp",
+      "surfaceId": "site",
+      "pageSlug": "service"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "保险知识 · H5",
+      "src": "assets/mobile-blog.webp",
+      "surfaceId": "site",
+      "pageSlug": "blog"
+    },
+    {
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "alt": "联系 · H5",
+      "src": "assets/mobile-contact.webp",
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
+  "version": "1.0.0",
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Framer Motion"
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "保险官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "about-us",
+          "title": "关于我们",
+          "localizedTitles": {
+            "en": "About Us"
+          }
+        },
+        {
+          "slug": "service",
+          "title": "保险服务",
+          "localizedTitles": {
+            "en": "Services"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系我们",
+          "localizedTitles": {
+            "en": "Contact Us"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "保险知识",
+          "localizedTitles": {
+            "en": "Blog"
+          }
+        },
+        {
+          "slug": "legal/privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy Policy"
+          }
+        },
+        {
+          "slug": "404",
+          "title": "页面未找到",
+          "localizedTitles": {
+            "en": "Not Found"
+          }
+        },
+        {
+          "slug": "service/life-insurance",
+          "title": "人寿保险",
+          "localizedTitles": {
+            "en": "Secure Your Family’s Financial Future"
+          }
+        },
+        {
+          "slug": "service/health-insurance",
+          "title": "健康保险",
+          "localizedTitles": {
+            "en": "Protect Your Health And Finances"
+          }
+        },
+        {
+          "slug": "service/motor-insurance",
+          "title": "机动车保险",
+          "localizedTitles": {
+            "en": "Drive Safely With Complete Protection"
+          }
+        },
+        {
+          "slug": "service/property-insurance",
+          "title": "财产保险",
+          "localizedTitles": {
+            "en": "Protect Your Property And Assets"
+          }
+        },
+        {
+          "slug": "service/business-insurance",
+          "title": "企业保险",
+          "localizedTitles": {
+            "en": "Secure Your Business Against Risks"
+          }
+        },
+        {
+          "slug": "blog/simple-steps-to-achieve-strong-protection-for-a-better-and-safer-life",
+          "title": "简单几步建立保障",
+          "localizedTitles": {
+            "en": "simple steps to achieve strong protection for a better and safer life"
+          }
+        },
+        {
+          "slug": "blog/get-reliable-protection-without-any-stress-or-confusion-in-your-daily-life",
+          "title": "轻松获得可靠保障",
+          "localizedTitles": {
+            "en": "get reliable protection without any stress or confusion in your daily life"
+          }
+        },
+        {
+          "slug": "blog/secure-your-familys-financial-future-today",
+          "title": "守护家庭财务未来",
+          "localizedTitles": {
+            "en": "secure your familys financial future today"
+          }
+        },
+        {
+          "slug": "blog/stay-protected-and-confident-every-single-day",
+          "title": "安心面对每一天",
+          "localizedTitles": {
+            "en": "stay protected and confident every single day"
+          }
+        },
+        {
+          "slug": "blog/because-your-familys-future-truly-matters",
+          "title": "家人未来值得守护",
+          "localizedTitles": {
+            "en": "because your familys future truly matters"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "commercial",
+    "file": "docs/LICENSE.md",
+    "summary": "用户已确认拥有本模板素材下载和再分发授权；使用遵循原授权条款。",
+    "redistributionAllowed": true
+  }
+}

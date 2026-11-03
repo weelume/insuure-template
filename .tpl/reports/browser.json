@@ -1,0 +1,314 @@
+{
+  "browser": "ChatGPT 内置浏览器",
+  "checkedOn": "2026-11-03",
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      834,
+      1180
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      844
+    ]
+  ],
+  "results": {
+    "shotChecks": [
+      {
+        "device": "desktop",
+        "page": "home",
+        "broken": 0,
+        "content": 1430,
+        "scroll": 1430,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      {
+        "device": "desktop",
+        "page": "service",
+        "broken": 0,
+        "content": 1430,
+        "scroll": 1430,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      {
+        "device": "desktop",
+        "page": "blog",
+        "broken": 0,
+        "content": 1430,
+        "scroll": 1430,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      {
+        "device": "desktop",
+        "page": "contact",
+        "broken": 0,
+        "content": 1430,
+        "scroll": 1430,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      {
+        "device": "tablet",
+        "page": "home",
+        "broken": 0,
+        "content": 824,
+        "scroll": 824,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      {
+        "device": "tablet",
+        "page": "service",
+        "broken": 0,
+        "content": 824,
+        "scroll": 824,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      {
+        "device": "tablet",
+        "page": "blog",
+        "broken": 0,
+        "content": 824,
+        "scroll": 824,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      {
+        "device": "tablet",
+        "page": "contact",
+        "broken": 0,
+        "content": 824,
+        "scroll": 824,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      {
+        "device": "mobile",
+        "page": "home",
+        "broken": 0,
+        "content": 380,
+        "scroll": 380,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "device": "mobile",
+        "page": "service",
+        "broken": 0,
+        "content": 380,
+        "scroll": 380,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "device": "mobile",
+        "page": "blog",
+        "broken": 0,
+        "content": 380,
+        "scroll": 380,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      {
+        "device": "mobile",
+        "page": "contact",
+        "broken": 0,
+        "content": 380,
+        "scroll": 380,
+        "viewport": [
+          390,
+          844
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "width": 1440,
+        "language": "",
+        "page": "",
+        "broken": 0,
+        "content": 1430,
+        "h1": "不止守护财富也为未来积累更多可能",
+        "scroll": 1430
+      },
+      {
+        "width": 1440,
+        "language": "",
+        "page": "about-us",
+        "broken": 0,
+        "content": 1430,
+        "h1": "为每一个人提供智慧财务保障",
+        "scroll": 1430
+      },
+      {
+        "width": 1440,
+        "language": "en/",
+        "page": "",
+        "broken": 0,
+        "content": 1430,
+        "h1": "Don’t justprotect money.—grow it.",
+        "scroll": 1430
+      },
+      {
+        "width": 1440,
+        "language": "en/",
+        "page": "about-us",
+        "broken": 0,
+        "content": 1430,
+        "h1": "Smart Financial Protectionfor Every Person",
+        "scroll": 1430
+      },
+      {
+        "width": 834,
+        "language": "",
+        "page": "",
+        "broken": 0,
+        "content": 824,
+        "h1": "不止守护财富也为未来积累更多可能",
+        "scroll": 824
+      },
+      {
+        "width": 834,
+        "language": "",
+        "page": "about-us",
+        "broken": 0,
+        "content": 824,
+        "h1": "为每一个人提供智慧财务保障",
+        "scroll": 824
+      },
+      {
+        "width": 834,
+        "language": "en/",
+        "page": "",
+        "broken": 0,
+        "content": 824,
+        "h1": "Don’t justprotect money.—grow it.",
+        "scroll": 824
+      },
+      {
+        "width": 834,
+        "language": "en/",
+        "page": "about-us",
+        "broken": 0,
+        "content": 824,
+        "h1": "Smart Financial Protectionfor Every Person",
+        "scroll": 824
+      },
+      {
+        "width": 390,
+        "language": "",
+        "page": "",
+        "broken": 0,
+        "content": 380,
+        "h1": "不止守护财富也为未来积累更多可能",
+        "scroll": 380
+      },
+      {
+        "width": 390,
+        "language": "",
+        "page": "about-us",
+        "broken": 0,
+        "content": 380,
+        "h1": "为每一个人提供智慧财务保障",
+        "scroll": 380
+      },
+      {
+        "width": 390,
+        "language": "en/",
+        "page": "",
+        "broken": 0,
+        "content": 380,
+        "h1": "Don’t justprotect money.—grow it.",
+        "scroll": 380
+      },
+      {
+        "width": 390,
+        "language": "en/",
+        "page": "about-us",
+        "broken": 0,
+        "content": 380,
+        "h1": "Smart Financial Protectionfor Every Person",
+        "scroll": 380
+      },
+      {
+        "width": 320,
+        "language": "",
+        "page": "",
+        "broken": 0,
+        "content": 310,
+        "h1": "不止守护财富也为未来积累更多可能",
+        "scroll": 310
+      },
+      {
+        "width": 320,
+        "language": "",
+        "page": "about-us",
+        "broken": 0,
+        "content": 310,
+        "h1": "为每一个人提供智慧财务保障",
+        "scroll": 310
+      },
+      {
+        "width": 320,
+        "language": "en/",
+        "page": "",
+        "broken": 0,
+        "content": 310,
+        "h1": "Don’t justprotect money.—grow it.",
+        "scroll": 310
+      },
+      {
+        "width": 320,
+        "language": "en/",
+        "page": "about-us",
+        "broken": 0,
+        "content": 310,
+        "h1": "Smart Financial Protectionfor Every Person",
+        "scroll": 310
+      }
+    ],
+    "motion": {
+      "dragEnd": {
+        "index": "←3 / 3→继续",
+        "track": "user-select: none; touch-action: pan-y; transform: translateX(-200%);"
+      }
+    }
+  },
+  "limitations": [
+    "页面布局与重点交互检查不等于所有原站动效逐帧时长完全一致",
+    "减少动态效果已实现，系统偏好切换未实际操作"
+  ]
+}

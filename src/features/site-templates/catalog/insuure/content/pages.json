@@ -1,0 +1,56 @@
+{
+  "articles": [
+    {
+      "slug": "blog/simple-steps-to-achieve-strong-protection-for-a-better-and-safer-life",
+      "author": "Jorge Maggio",
+      "image": "GrPBaRlIR7tnn54cEv5nSqhIx4c.png"
+    },
+    {
+      "slug": "blog/get-reliable-protection-without-any-stress-or-confusion-in-your-daily-life",
+      "author": "Kim Flatley",
+      "image": "3yh201f7b2ioplIlThEyD8j1I.png"
+    },
+    {
+      "slug": "blog/secure-your-familys-financial-future-today",
+      "author": "Antwon",
+      "image": "GL6mCnL56E6iGzr2ao1w4ZGUa7k.png"
+    },
+    {
+      "slug": "blog/stay-protected-and-confident-every-single-day",
+      "author": "Modesta",
+      "image": "vMa37UqnuMF6wq2BvV6rnJDXg8.png"
+    },
+    {
+      "slug": "blog/because-your-familys-future-truly-matters",
+      "author": "Neoma",
+      "image": "kJjtHLKEM382dUuKyduRsMBwY.png"
+    }
+  ],
+  "services": [
+    {
+      "slug": "service/life-insurance",
+      "image": "OvKExnxj0jcHmeUFez6X7rTLcgY.png",
+      "title": "Secure Your Family’s Financial Future"
+    },
+    {
+      "slug": "service/health-insurance",
+      "image": "9yrPBH0EgFGsXjOfsWQOXwzYaec.jpg",
+      "title": "Protect Your Health And Finances"
+    },
+    {
+      "slug": "service/motor-insurance",
+      "image": "5oajw0B4f1SaZLitUDtB1Lxtt0.jpg",
+      "title": "Drive Safely With Complete Protection"
+    },
+    {
+      "slug": "service/property-insurance",
+      "image": "W4DkrXPpJk7SuRy67IaLQW6zh4.jpg",
+      "title": "Protect Your Property And Assets"
+    },
+    {
+      "slug": "service/business-insurance",
+      "image": "Lkh26O7lfNudiSSQtJvlsa2sq0k.jpg",
+      "title": "Secure Your Business Against Risks"
+    }
+  ]
+}

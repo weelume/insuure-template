@@ -1,0 +1,6 @@
+@import url('/templates/insuure/fonts/misans/MiSans-Regular.css');
+@import url('/templates/insuure/fonts/misans/MiSans-Bold.css');
+@font-face{font-family:InsurePoppins;src:url('/templates/insuure/fonts/poppins-latin-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:InsurePoppins;src:url('/templates/insuure/fonts/poppins-latin-600.woff2') format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:InsurePoppins;src:url('/templates/insuure/fonts/poppins-latin-700.woff2') format('woff2');font-weight:700;font-display:swap}
+.insuure{--green:#176f65;--yellow:#e6e5a3;--orange:#ea713b;--blue:#e9f5fc;--ink:#1d1d1b;--muted:#575954;--paper:#fff;--radius:24px;--container:1320px;--section:clamp(58px,7vw,112px);--h1:clamp(28px,3.1vw,44px);--h2:clamp(24px,2.5vw,36px);--h3:clamp(20px,1.8vw,26px);--body:clamp(16px,1.2vw,17px);--glass:linear-gradient(145deg,#ffffffcc,#ffffff66);--glass-border:#ffffff99;--shadow:0 12px 40px #173f3510;--scroll-track:#f3f5ec;--scroll-thumb:#82a49a;--scroll-hover:#176f65;font-family:InsurePoppins,InsureMiSans,sans-serif;font-size:var(--body);line-height:1.8;color:var(--ink);background:var(--paper)}

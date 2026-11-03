@@ -1,0 +1,122 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌配置",
+      "description": "品牌配置",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/insuure/config",
+          "kind": "directory",
+          "purpose": "品牌配置"
+        }
+      ],
+      "constraints": [
+        "保持中英文一致",
+        "复用主题和公共组件",
+        "不增加未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "双语内容",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/insuure/content",
+          "kind": "directory",
+          "purpose": "双语内容"
+        }
+      ],
+      "constraints": [
+        "保持中英文一致",
+        "复用主题和公共组件",
+        "不增加未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "视觉主题",
+      "description": "视觉主题",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/insuure/tokens.css",
+          "kind": "file",
+          "purpose": "视觉主题"
+        }
+      ],
+      "constraints": [
+        "保持中英文一致",
+        "复用主题和公共组件",
+        "不增加未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "interaction",
+      "title": "交互与动效",
+      "description": "交互与动效",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/insuure/components",
+          "kind": "directory",
+          "purpose": "交互与动效"
+        }
+      ],
+      "constraints": [
+        "保持中英文一致",
+        "复用主题和公共组件",
+        "不增加未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面与路由",
+      "description": "页面与路由",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/insuure/pages",
+          "kind": "directory",
+          "purpose": "页面与路由"
+        }
+      ],
+      "constraints": [
+        "保持中英文一致",
+        "复用主题和公共组件",
+        "不增加未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    }
+  ]
+}
