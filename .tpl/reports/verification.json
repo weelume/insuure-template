@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-03T06:54:11.440Z",
+  "checkedAt": "2026-11-03T09:18:25.340Z",
   "sourceCommit": null,
-  "sourceDigest": "bdbc7fb24f741bb253c217cafe5af148e9e798d6b7857e1aa32977867ae7366c",
+  "sourceDigest": "f4cc3d7845e2b77e780cab94d1610bb4094bf8e30706f34b3960074dd4ab25b3",
   "environment": {
     "platform": "linux / local WSL Ubuntu",
     "arch": "x64",
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:53:39.274Z",
-      "finishedAt": "2026-11-03T06:53:40.111Z"
+      "startedAt": "2026-11-03T09:17:54.899Z",
+      "finishedAt": "2026-11-03T09:17:55.787Z"
     },
     {
       "id": "typecheck",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:53:40.111Z",
-      "finishedAt": "2026-11-03T06:53:41.986Z"
+      "startedAt": "2026-11-03T09:17:55.788Z",
+      "finishedAt": "2026-11-03T09:17:58.147Z"
     },
     {
       "id": "lint",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:53:41.986Z",
-      "finishedAt": "2026-11-03T06:53:45.040Z"
+      "startedAt": "2026-11-03T09:17:58.147Z",
+      "finishedAt": "2026-11-03T09:18:00.726Z"
     },
     {
       "id": "test",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:53:45.040Z",
-      "finishedAt": "2026-11-03T06:53:45.646Z"
+      "startedAt": "2026-11-03T09:18:00.726Z",
+      "finishedAt": "2026-11-03T09:18:01.275Z"
     },
     {
       "id": "build",
@@ -77,8 +77,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:53:45.646Z",
-      "finishedAt": "2026-11-03T06:54:09.214Z"
+      "startedAt": "2026-11-03T09:18:01.275Z",
+      "finishedAt": "2026-11-03T09:18:23.350Z"
     },
     {
       "id": "http",
@@ -90,8 +90,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-03T06:54:10.368Z",
-      "finishedAt": "2026-11-03T06:54:10.787Z"
+      "startedAt": "2026-11-03T09:18:24.354Z",
+      "finishedAt": "2026-11-03T09:18:24.706Z"
     }
   ],
   "services": [
@@ -99,7 +99,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-03T06:54:10.368Z"
+      "checkedAt": "2026-11-03T09:18:24.354Z"
     }
   ],
   "limitations": [

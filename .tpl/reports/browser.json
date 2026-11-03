@@ -418,5 +418,570 @@
       "after": "12 项真实截图采样均未发现按钮底部的黄色背景侵入"
     },
     "reference": "原站本轮连接超时；不代表已完成原站逐帧对照"
+  },
+  "headerRegression": {
+    "version": "1.0.2",
+    "date": "2026-11-03",
+    "checks": [
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 3840,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 3824.666748046875,
+          "top": 0,
+          "width": 3824.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 3825,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 1112.3333740234375,
+          "right": 2712.3333740234375,
+          "top": 0,
+          "width": 1600,
+          "x": 1112.3333740234375,
+          "y": 0
+        },
+        "scroll": 3825,
+        "viewport": 3840,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2544.666748046875,
+          "top": 0,
+          "width": 2544.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2545,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 472.3333435058594,
+          "right": 2072.3333435058594,
+          "top": 0,
+          "width": 1600,
+          "x": 472.3333435058594,
+          "y": 0
+        },
+        "scroll": 2545,
+        "viewport": 2560,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 1920,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1910,
+          "top": 0,
+          "width": 1910,
+          "x": 0,
+          "y": 0
+        },
+        "content": 1910,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 155,
+          "right": 1755,
+          "top": 0,
+          "width": 1600,
+          "x": 155,
+          "y": 0
+        },
+        "scroll": 1910,
+        "viewport": 1920,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 1440,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1424.666748046875,
+          "top": 0,
+          "width": 1424.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 1425,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1424.666748046875,
+          "top": 0,
+          "width": 1424.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 1425,
+        "viewport": 1440,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 834,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 824,
+          "top": 0,
+          "width": 824,
+          "x": 0,
+          "y": 0
+        },
+        "content": 824,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 824,
+          "top": 0,
+          "width": 824,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 824,
+        "viewport": 834,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 390,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 374.6666870117187,
+          "top": 0,
+          "width": 374.6666870117187,
+          "x": 0,
+          "y": 0
+        },
+        "content": 375,
+        "inner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 374.6666870117187,
+          "top": 0,
+          "width": 374.6666870117187,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 375,
+        "viewport": 390,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "",
+        "width": 320,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 304.66668701171875,
+          "top": 0,
+          "width": 304.66668701171875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 305,
+        "inner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 304.66668701171875,
+          "top": 0,
+          "width": 304.66668701171875,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 305,
+        "viewport": 320,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "/about-us",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(230, 229, 163)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2544.666748046875,
+          "top": 0,
+          "width": 2544.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2545,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 472.3333435058594,
+          "right": 2072.3333435058594,
+          "top": 0,
+          "width": 1600,
+          "x": 472.3333435058594,
+          "y": 0
+        },
+        "scroll": 2545,
+        "viewport": 2560,
+        "passed": true
+      },
+      {
+        "stage": "source-zh",
+        "path": "/contact",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2544.666748046875,
+          "top": 0,
+          "width": 2544.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2545,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 472.3333435058594,
+          "right": 2072.3333435058594,
+          "top": 0,
+          "width": 1600,
+          "x": 472.3333435058594,
+          "y": 0
+        },
+        "scroll": 2545,
+        "viewport": 2560,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 3840,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 3824.666748046875,
+          "top": 0,
+          "width": 3824.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 3825,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 1112.3333740234375,
+          "right": 2712.3333740234375,
+          "top": 0,
+          "width": 1600,
+          "x": 1112.3333740234375,
+          "y": 0
+        },
+        "scroll": 3825,
+        "viewport": 3840,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2550,
+          "top": 0,
+          "width": 2550,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2550,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 475,
+          "right": 2075,
+          "top": 0,
+          "width": 1600,
+          "x": 475,
+          "y": 0
+        },
+        "scroll": 2550,
+        "viewport": 2560,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 1920,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1910,
+          "top": 0,
+          "width": 1910,
+          "x": 0,
+          "y": 0
+        },
+        "content": 1910,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 155,
+          "right": 1755,
+          "top": 0,
+          "width": 1600,
+          "x": 155,
+          "y": 0
+        },
+        "scroll": 1910,
+        "viewport": 1920,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 1440,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1430,
+          "top": 0,
+          "width": 1430,
+          "x": 0,
+          "y": 0
+        },
+        "content": 1430,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 1430,
+          "top": 0,
+          "width": 1430,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 1430,
+        "viewport": 1440,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 834,
+        "height": 1000,
+        "background": "rgb(23, 111, 101)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 824,
+          "top": 0,
+          "width": 824,
+          "x": 0,
+          "y": 0
+        },
+        "content": 824,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 824,
+          "top": 0,
+          "width": 824,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 824,
+        "viewport": 834,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 390,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 380,
+          "top": 0,
+          "width": 380,
+          "x": 0,
+          "y": 0
+        },
+        "content": 380,
+        "inner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 380,
+          "top": 0,
+          "width": 380,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 380,
+        "viewport": 390,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "",
+        "width": 320,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 310,
+          "top": 0,
+          "width": 310,
+          "x": 0,
+          "y": 0
+        },
+        "content": 310,
+        "inner": {
+          "bottom": 72,
+          "height": 72,
+          "left": 0,
+          "right": 310,
+          "top": 0,
+          "width": 310,
+          "x": 0,
+          "y": 0
+        },
+        "scroll": 310,
+        "viewport": 320,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "/about-us",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(230, 229, 163)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2544.666748046875,
+          "top": 0,
+          "width": 2544.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2545,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 472.3333435058594,
+          "right": 2072.3333435058594,
+          "top": 0,
+          "width": 1600,
+          "x": 472.3333435058594,
+          "y": 0
+        },
+        "scroll": 2545,
+        "viewport": 2560,
+        "passed": true
+      },
+      {
+        "stage": "source-en",
+        "path": "/contact",
+        "width": 2560,
+        "height": 1000,
+        "background": "rgb(255, 255, 255)",
+        "banner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 0,
+          "right": 2544.666748046875,
+          "top": 0,
+          "width": 2544.666748046875,
+          "x": 0,
+          "y": 0
+        },
+        "content": 2545,
+        "inner": {
+          "bottom": 98,
+          "height": 98,
+          "left": 472.3333435058594,
+          "right": 2072.3333435058594,
+          "top": 0,
+          "width": 1600,
+          "x": 472.3333435058594,
+          "y": 0
+        },
+        "scroll": 2545,
+        "viewport": 2560,
+        "passed": true
+      }
+    ],
+    "scope": "中英文首页七种宽度、关于和联系页超宽屏；背景整行覆盖，内容保持1600px上限"
   }
 }
