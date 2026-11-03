@@ -310,5 +310,113 @@
   "limitations": [
     "页面布局与重点交互检查不等于所有原站动效逐帧时长完全一致",
     "减少动态效果已实现，系统偏好切换未实际操作"
-  ]
+  ],
+  "refinement": {
+    "checkedOn": "2026-11-03",
+    "version": "1.0.1",
+    "scope": "首页中英文响应式背景、真实截图及临界宽度",
+    "checks": [
+      {
+        "label": "after-source-mobile",
+        "width": 390,
+        "height": 844,
+        "content": 380,
+        "scroll": 380,
+        "broken": 0
+      },
+      {
+        "label": "after-source-tablet",
+        "width": 834,
+        "height": 1180,
+        "content": 824,
+        "scroll": 824,
+        "broken": 0
+      },
+      {
+        "label": "after-source-desktop",
+        "width": 1440,
+        "height": 1000,
+        "content": 1430,
+        "scroll": 1430,
+        "broken": 0
+      },
+      {
+        "label": "after-source-narrow",
+        "width": 320,
+        "height": 844,
+        "content": 310,
+        "scroll": 310,
+        "broken": 0
+      },
+      {
+        "label": "after-source-boundary-tablet",
+        "width": 701,
+        "height": 1000,
+        "content": 691,
+        "scroll": 691,
+        "broken": 0
+      },
+      {
+        "label": "after-source-boundary-mobile",
+        "width": 700,
+        "height": 1000,
+        "content": 690,
+        "scroll": 690,
+        "broken": 0
+      },
+      {
+        "label": "after-source-boundary-wide",
+        "width": 1101,
+        "height": 1000,
+        "content": 1091,
+        "scroll": 1091,
+        "broken": 0
+      },
+      {
+        "label": "after-source-boundary-desktop",
+        "width": 1301,
+        "height": 1000,
+        "content": 1291,
+        "scroll": 1291,
+        "broken": 0
+      },
+      {
+        "label": "after-source-zh-desktop",
+        "width": 1440,
+        "height": 1000,
+        "content": 1430,
+        "scroll": 1430,
+        "broken": 0
+      },
+      {
+        "label": "after-source-zh-tablet",
+        "width": 834,
+        "height": 1180,
+        "content": 824,
+        "scroll": 824,
+        "broken": 0
+      },
+      {
+        "label": "after-source-zh-mobile",
+        "width": 390,
+        "height": 844,
+        "content": 380,
+        "scroll": 380,
+        "broken": 0
+      },
+      {
+        "label": "after-source-zh-narrow",
+        "width": 320,
+        "height": 844,
+        "content": 310,
+        "scroll": 310,
+        "broken": 0
+      }
+    ],
+    "contrast": {
+      "before": "手机 / 平板按钮内出现大面积黄色背景，复现失败预期",
+      "after": "12 项真实截图采样均未发现按钮底部的黄色背景侵入"
+    },
+    "reference": "原站本轮连接超时；不代表已完成原站逐帧对照"
+  }
 }
